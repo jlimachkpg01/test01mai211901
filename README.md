@@ -6,3 +6,4 @@
 # shiftleft-cicd-demo
 # shiftleft-cicd-demo IRA 23 
 # IRA 05mai21 shiftleft-cicd-demo
+IRA 06mai21v2 # shiftleft-cicd-demo
